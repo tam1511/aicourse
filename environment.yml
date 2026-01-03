@@ -1,0 +1,25 @@
+name: llms
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - tqdm
+  - scikit-learn
+  - pip
+  - pip:
+      - sentence-transformers
+      - plotly
+      - chromadb
+      - openai
+      - graphviz
+      - langchain
+      - langchain-core
+      - langchain-openai
+      - langchain-chroma
+      - langchain-community
+      - langchain-ollama
