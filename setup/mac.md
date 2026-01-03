@@ -108,7 +108,7 @@ Mở Terminal và kiểm tra:
 `git --version`
 
 
-Nếu chưa có, macOS sẽ gợi ý bạn cài đặt Command Line Tools → chỉ cần đồng ý.
+Nếu chưa có, macOS sẽ gợi ý bạn cài đặt Command Line Tools → chỉ cần đồng ý. Hoặc truy cập link này để tải https://git-scm.com/install/mac
 
 **Tạo thư mục chứa project**:
 
