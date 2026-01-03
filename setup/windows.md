@@ -6,7 +6,7 @@ Mình biết các bạn đang rất háo hức để vào code, nhưng nếu b�
 - Lỗi thư viện
 - Phiên bản Python không khớp
 - Dependency conflict
-- “Chạy được trên máy thầy, không chạy trên máy em”
+- “Chạy được trên máy bạn, không chạy trên máy mình”
 
 Vì vậy, chúng ta sẽ làm việc này **một lần cho thật chuẩn**.
 
