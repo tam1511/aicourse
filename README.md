@@ -29,16 +29,12 @@ Nếu bạn gặp bất kỳ vấn đề nào trong quá trình học hoặc set
 
 ## Hướng dẫn cài đặt môi trường
 
-Mình đã cố gắng thiết kế môi trường **đơn giản và nhất có thể**, phù hợp cho người mới.
+Mình đã cố gắng thiết kế môi trường **đơn giản nhất có thể**, phù hợp cho người mới.
 
 Hướng dẫn chi tiết theo hệ điều hành:
 
 - **Windows**: xem thư mục `setup/windows`
 - **macOS**: xem thư mục `setup/mac`
-
-Nếu có vấn đề trong quá trình cài đặt, hãy:
-- Kiểm tra phần **Troubleshooting**
-- Hoặc mở issue trên GitHub repo này
 
 ---
 
