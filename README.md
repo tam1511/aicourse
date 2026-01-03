@@ -27,7 +27,7 @@ Nếu bạn gặp bất kỳ vấn đề nào trong quá trình học hoặc set
 
 ---
 
-## ⚙️ Hướng dẫn cài đặt môi trường
+## Hướng dẫn cài đặt môi trường
 
 Mình đã cố gắng thiết kế môi trường **đơn giản và nhất có thể**, phù hợp cho người mới.
 
