@@ -41,7 +41,6 @@ Hướng dẫn chi tiết theo hệ điều hành:
 ## Tài nguyên rất hữu ích
 
 - Video bài giảng (Udemy course)
-- Thư mục `guides/` – các hướng dẫn quan trọng
 - Notebook xử lý lỗi & debug
 - FAQ – các câu hỏi thường gặp
 
