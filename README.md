@@ -51,7 +51,7 @@ Hướng dẫn chi tiết theo hệ điều hành:
 Mình rất mong được kết nối với bạn để xây dựng cộng đồng học AI nghiêm túc:
 
 - **LinkedIn**: *https://www.linkedin.com/in/timi11/*  
-- **Discord group**: *https://discord.gg/X6R3NSU4*
+- **Discord group**: *[https://discord.gg/X6R3NSU4](https://discord.gg/pZQH8cgt)*
 - **My Gmail**: *timiofficial.vn@gmail.com* 
 
 Nếu bạn đang học khoá này qua Udemy, bạn cũng có thể:
