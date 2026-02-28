@@ -6,7 +6,7 @@ Nếu bạn gặp lỗi không fix được hoặc ý kiến đóng góp, hãy t
 
 - Email: timiofficial.vn@gmail.com
 - LinkedIn: https://www.linkedin.com/in/timi11
-- Group: https://discord.com/invite/HhnY8DRA
+- Group: [https://discord.com/invite/HhnY8DRA](https://discord.gg/pZQH8cgt)
 
 Chúng ta sẽ xử lý cùng nhau. Nếu bạn thấy mình trả lời chậm quá, hãy gửi lên group để tất cả mọi người có thể hỗ trợ.
 
