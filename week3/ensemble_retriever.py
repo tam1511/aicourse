@@ -21,7 +21,7 @@ class EnsembleRetriever(BaseRetriever):
     def _get_relevant_documents(self, query: str, *, run_manager: Optional[CallbackManagerForRetrieverRun] = None) -> List[Document]:
         doc_lists = []
         for retriever in self.retrievers:
-            # ✅ FIXED: Use invoke() instead of get_relevant_documents()
+            # FIXED: Use invoke() instead of get_relevant_documents()
             docs = retriever.invoke(query)
             doc_lists.append(docs)
         
