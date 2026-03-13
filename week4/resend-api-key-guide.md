@@ -84,7 +84,7 @@ resend.api_key = os.environ["RESEND_API_KEY"]
 
 ---
 
-## ✅ Kiểm tra API Key hoạt động
+## Kiểm tra API Key hoạt động
 
 Chạy lệnh sau để test nhanh:
 
@@ -100,7 +100,7 @@ curl -X POST 'https://api.resend.com/emails' \
   }'
 ```
 
-Nếu nhận được response `{ "id": "..." }` là thành công 🎉
+Nếu nhận được response `{ "id": "..." }` là thành công 
 
 ---
 
