@@ -1,4 +1,4 @@
-# 🔑 Hướng dẫn lấy API Key của Resend
+# Hướng dẫn lấy API Key của Resend
 
 ## Resend là gì?
 
@@ -34,7 +34,7 @@ Sau khi đăng nhập thành công:
 4. Chọn **Domain** muốn gắn key này (hoặc để mặc định `All domains`)
 5. Nhấn **"Add"** để tạo
 
-> ⚠️ **Lưu ý quan trọng:** API Key chỉ hiển thị **một lần duy nhất** ngay sau khi tạo. Hãy sao chép và lưu lại ngay!
+> **Lưu ý quan trọng:** API Key chỉ hiển thị **một lần duy nhất** ngay sau khi tạo. Hãy sao chép và lưu lại ngay!
 
 ---
 
@@ -54,7 +54,7 @@ Nhấn **Copy** để sao chép key vào clipboard.
 
 ### Cách 1: Dùng file `.env`
 
-Tạo hoặc mở file `.env` ở thư mục gốc của dự án:
+mở file `.env` ở thư mục gốc của dự án:
 
 ```env
 RESEND_API_KEY=re_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -104,7 +104,7 @@ Nếu nhận được response `{ "id": "..." }` là thành công 🎉
 
 ---
 
-## 🛡️ Bảo mật API Key
+## Bảo mật API Key
 
 - **Không** commit API Key lên Git — thêm `.env` vào `.gitignore`
 - **Không** hard-code key trực tiếp trong source code
@@ -113,7 +113,7 @@ Nếu nhận được response `{ "id": "..." }` là thành công 🎉
 
 ---
 
-## 📚 Tài liệu tham khảo
+## Tài liệu tham khảo
 
 - [Resend Quickstart](https://resend.com/docs/introduction)
 - [Resend API Reference](https://resend.com/docs/api-reference/introduction)
