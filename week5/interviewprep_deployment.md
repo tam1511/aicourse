@@ -1,6 +1,7 @@
 # Hướng dẫn Deploy AI Interview Prep SaaS
 
 > Hướng dẫn chi tiết deploy Full-stack AI SaaS lên Production với Railway (Backend) và Vercel (Frontend)
+> Link repo dự án: [https://github.com/tam1511/interviewprep.git]
 
 ---
 
