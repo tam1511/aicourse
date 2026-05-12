@@ -2,6 +2,8 @@
 
 > Nền tảng chuẩn bị phỏng vấn AI/ML chuyên nghiệp được xây dựng bằng Next.js và FastAPI
 
+> Link repo dự án: [https://github.com/tam1511/interviewprep.git]
+
 ## 📋 Mục lục
 
 - [Giới thiệu](#giới-thiệu)
